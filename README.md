@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
   <br>
 </div> 
-<div align=left><h3>📎 Etc Tech Stack 📎</h3></div>
+<div align=left><h3>🌏 Etc Tech Stack 🌏</h3></div>
 <div align=left>
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white">
   <img src="https://img.shields.io/badge/ArcGIS-C7AC3?style=flat&logo=arcgis&logoColor=white">
