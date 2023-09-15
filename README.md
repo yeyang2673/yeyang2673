@@ -17,6 +17,7 @@
 <div align=left>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
   <br>
 </div>
 <div align=left><h3>💻 Front Tech Stack 💻</h3></div>
