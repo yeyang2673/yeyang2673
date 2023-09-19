@@ -7,10 +7,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/ES6-FF7800?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/ES6-FF7800?style=flat&logo=javascript&logoColor=white">
   <br>
 </div>
 <div align=left><h3>💿 DataBase Tech Stack 💿</h3></div>
@@ -36,6 +35,7 @@
 <div align=left>
   <img src="https://img.shields.io/badge/Visual Studio Code-FF3366?style=flat&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/DJango-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
